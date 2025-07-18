@@ -1,2 +1,2 @@
 # dsa-1
-DSA-data-analysis-projects
+First DSA data analysis project.
