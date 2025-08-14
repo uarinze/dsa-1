@@ -1,4 +1,4 @@
-Please find below my report as a Junior Data Analyst at RetailTech Insights: 
+Please find below my report for the project at IncubatorHub.
 
 # Amazon Product Review Analysis Report
 ## Executive Summary
